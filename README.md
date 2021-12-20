@@ -75,6 +75,9 @@ Conference papers on deep generative models.
 - [Distributional Sliced-Wasserstein and Applications to Generative Modeling](https://openreview.net/forum?id=QYjO70ACDK), Khai Nguyen, Nhat Ho, Tung Pham, Hung Bui
 - [Disentangled Recurrent Wasserstein Autoencoder](https://openreview.net/forum?id=O7ms4LFdsX), Jun Han, Martin Renqiang Min, Ligong Han, Li Erran Li, Xuan Zhang
 - [On Self-Supervised Image Representations for GAN Evaluation](https://openreview.net/forum?id=NeRdBeTionN), Stanislav Morozov, Andrey Voynov, Artem Babenko
+
+### Poster
+
 - [Training GANs with Stronger Augmentations via Contrastive Discriminator](https://openreview.net/forum?id=eo6U4CAwVmg), Jongheon Jeong, Jinwoo Shin
 - [Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation](https://openreview.net/forum?id=HOFxeCutxZR), Peiye Zhuang, Oluwasanmi O Koyejo, Alex Schwing
 - [Using latent space regression to analyze and leverage compositionality in GANs](https://openreview.net/forum?id=sjuuTm4vj0), Lucy Chai, Jonas Wulff, Phillip Isola
@@ -90,3 +93,22 @@ Conference papers on deep generative models.
 - [Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA), Ahmed Alaa, Alex James Chan, Mihaela van der Schaar
 - [Conditional Generative Modeling via Learning the Latent Space](https://openreview.net/forum?id=VJnrYcnRc6), Sameera Ramasinghe, Kanchana Nisal Ranasinghe, Salman Khan, Nick Barnes, Stephen Gould
 - [not-MIWAE: Deep Generative Modelling with Missing not at Random Data](https://openreview.net/forum?id=tu29GQT0JFy), Niels Bruun Ipsen, Pierre-Alexandre Mattei, Jes Frellsen
+- [Private Image Reconstruction from System Side Channels Using Generative Models](https://openreview.net/forum?id=y06VOYLcQXa), Yuanyuan Yuan, Shuai Wang, Junping Zhang
+- [Counterfactual Generative Networks](https://openreview.net/forum?id=BXewfAYMmJw), Axel Sauer, Andreas Geiger
+- [Learning to Generate 3D Shapes with Generative Cellular Automata](https://openreview.net/forum?id=rABUmU3ulQh), Dongsu Zhang, Changwoon Choi, Jeonghwan Kim, Young Min Kim
+- [Reducing the Computational Cost of Deep Generative Models with Binary Neural Networks](https://openreview.net/forum?id=sTeoJiB4uR), Thomas Bird, Friso Kingma, David Barber
+- [Group Equivariant Generative Adversarial Networks](https://openreview.net/forum?id=rgFNuJHHXv), Neel Dey, Antong Chen, Soheil Ghafurian
+- [Refining Deep Generative Models via Discriminator Gradient Flow](https://openreview.net/forum?id=Zbc-ue9p_rE), Abdul Fatir Ansari, Ming Liang Ang, Harold Soh
+- [Spatial Dependency Networks: Neural Layers for Improved Generative Image Modeling](https://openreview.net/forum?id=I4c4K9vBNny), Đorđe Miladinović, Aleksandar Stanić, Stefan Bauer, Jürgen Schmidhuber, Joachim M. Buhmann
+- [Relating by Contrasting: A Data-efficient Framework for Multimodal Generative Models](https://openreview.net/forum?id=vhKe9UFbrJo), Yuge Shi, Brooks Paige, Philip Torr, Siddharth N
+- [Unsupervised Meta-Learning through Latent-Space Interpolation in Generative Models](https://openreview.net/forum?id=XOjv2HxIF6i), Siavash Khodadadeh, Sharare Zehtabian, Saeed Vahidian, Weijia Wang, Bill Lin, Ladislau Boloni
+- [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis](https://openreview.net/forum?id=Ig53hpHxS4), Rafael Valle, Kevin J. Shih, Ryan Prenger, Bryan Catanzaro
+- [Understanding Over-parameterization in Generative Adversarial Networks](https://openreview.net/forum?id=C3qvk5IQIJY), Yogesh Balaji, Mohammadmahdi Sajedi, Neha Mukund Kalibhat, Mucong Ding, Dominik Stöger, Mahdi Soltanolkotabi, Soheil Feizi
+- [Evaluating the Disentanglement of Deep Generative Models through Manifold Topology](https://openreview.net/forum?id=djwS0m4Ft_A), Sharon Zhou, Eric Zelikman, Fred Lu, Andrew Y. Ng, Gunnar E. Carlsson, Stefano Ermon
+- [Decentralized Attribution of Generative Models](https://openreview.net/forum?id=_kxlwvhOodK), Changhoon Kim, Yi Ren, Yezhou Yang
+- [Bowtie Networks: Generative Modeling for Joint Few-Shot Recognition and Novel-View Synthesis](https://openreview.net/forum?id=ESG-DMKQKsD), Zhipeng Bao, Yu-Xiong Wang, Martial Hebert
+- [A Geometric Analysis of Deep Generative Image Models and Its Applications](https://openreview.net/forum?id=GH7QRzUDdXG), Binxu Wang, Carlos R Ponce
+- [Unsupervised Audiovisual Synthesis via Exemplar Autoencoders](https://openreview.net/forum?id=43VKWxg_Sqr), Kangle Deng, Aayush Bansal, Deva Ramanan
+- [Property Controllable Variational Autoencoder via Invertible Mutual Dependence](https://openreview.net/forum?id=tYxG_OMs9WE), Xiaojie Guo, Yuanqi Du, Liang Zhao
+- [Anytime Sampling for Autoregressive Models via Ordered Autoencoding](https://openreview.net/forum?id=TSRTzJnuEBS), Yilun Xu, Yang Song, Sahaj Garg, Linyuan Gong, Rui Shu, Aditya Grover, Stefano Ermon
+- [Tomographic Auto-Encoder: Unsupervised Bayesian Recovery of Corrupted Data](https://openreview.net/forum?id=YtMG5ex0ou), Francesco Tonolini, Pablo Garcia Moreno, Andreas Damianou, Roderick Murray-Smith

@@ -2,7 +2,7 @@
 
 Conference papers on deep generative models.
 
-## [NeurIPS 2020](https://papers.nips.cc/paper/2020)
+## NeurIPS 2020
 
 - [Teaching a GAN What Not to Learn](https://papers.nips.cc/paper/2020/hash/29405e2a4c22866a205f557559c7fa4b-Abstract.html), Siddarth Asokan, Chandra Seelamantula
 - [Improving GAN Training with Probability Ratio Clipping and Sample Reweighting](https://papers.nips.cc/paper/2020/hash/3eb46aa5d93b7a5939616af91addfa88-Abstract.html), Yue Wu, Pan Zhou, Andrew G. Wilson, Eric Xing, Zhiting Hu
@@ -55,5 +55,38 @@ Conference papers on deep generative models.
 - [Learning Latent Space Energy-Based Prior Model](https://papers.nips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html), Bo Pang, Tian Han, Erik Nijkamp, Song-Chun Zhu, Ying Nian Wu
 
 
+## ICLR 2021
 
+### Oral
 
+- [Do 2D GANs Know 3D Shape? Unsupervised 3D Shape Reconstruction from 2D Image GANs](https://openreview.net/forum?id=FGqiDsBUKL0), Xingang Pan, Bo Dai, Ziwei Liu, Chen Change Loy, Ping Luo
+- [Score-Based Generative Modeling through Stochastic Differential Equations](https://openreview.net/forum?id=PxTIG12RRHS), Yang Song, Jascha Sohl-Dickstein, Diederik P Kingma, Abhishek Kumar, Stefano Ermon, Ben Poole
+- [Image GANs meet Differentiable Rendering for Inverse Graphics and Interpretable 3D Neural Rendering](https://openreview.net/forum?id=yWkP7JuHX1), Yuxuan Zhang, Wenzheng Chen, Huan Ling, Jun Gao, Yinan Zhang, Antonio Torralba, Sanja Fidler
+- [Improved Autoregressive Modeling with Distribution Smoothing](https://openreview.net/forum?id=rJA5Pz7lHKb), Chenlin Meng, Jiaming Song, Yang Song, Shengjia Zhao, Stefano Ermon
+
+### Spotlight
+- [VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models](https://openreview.net/forum?id=5m3SEczOV8L), Zhisheng Xiao, Karsten Kreis, Jan Kautz, Arash Vahdat
+- [Large Scale Image Completion via Co-Modulated Generative Adversarial Networks](https://openreview.net/forum?id=sSjqmfsk95O), Shengyu Zhao, Jonathan Cui, Yilun Sheng, Yue Dong, Xiao Liang, Eric I-Chao Chang, Yan Xu
+- [Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images](https://openreview.net/forum?id=RLRXCV6DbEJ), Rewon Child
+- [A Good Image Generator Is What You Need for High-Resolution Video Synthesis](https://openreview.net/forum?id=6puCSjH3hwA), Yu Tian, Jian Ren, Menglei Chai, Kyle Olszewski, Xi Peng, Dimitris N. Metaxas, Sergey Tulyakov
+- [GAN "Steerability" without optimization](https://openreview.net/forum?id=zDy_nQCXiIj), Nurit Spingarn, Ron Banner, Tomer Michaeli
+- [Contrastive Divergence Learning is a Time Reversal Adversarial Game](https://openreview.net/forum?id=MLSvqIHRidA), Omer Yair, Tomer Michaeli
+- [Influence Estimation for Generative Adversarial Networks](https://openreview.net/forum?id=opHLcXxYTC_), Naoyuki Terashita, Hiroki Ohashi, Yuichi Nonaka, Takashi Kanemaru
+- [Distributional Sliced-Wasserstein and Applications to Generative Modeling](https://openreview.net/forum?id=QYjO70ACDK), Khai Nguyen, Nhat Ho, Tung Pham, Hung Bui
+- [Disentangled Recurrent Wasserstein Autoencoder](https://openreview.net/forum?id=O7ms4LFdsX), Jun Han, Martin Renqiang Min, Ligong Han, Li Erran Li, Xuan Zhang
+- [On Self-Supervised Image Representations for GAN Evaluation](https://openreview.net/forum?id=NeRdBeTionN), Stanislav Morozov, Andrey Voynov, Artem Babenko
+- [Training GANs with Stronger Augmentations via Contrastive Discriminator](https://openreview.net/forum?id=eo6U4CAwVmg), Jongheon Jeong, Jinwoo Shin
+- [Enjoy Your Editing: Controllable GANs for Image Editing via Latent Space Navigation](https://openreview.net/forum?id=HOFxeCutxZR), Peiye Zhuang, Oluwasanmi O Koyejo, Alex Schwing
+- [Using latent space regression to analyze and leverage compositionality in GANs](https://openreview.net/forum?id=sjuuTm4vj0), Lucy Chai, Jonas Wulff, Phillip Isola
+- [GANs Can Play Lottery Tickets Too](https://openreview.net/forum?id=1AoMhc_9jER), Xuxi Chen, Zhenyu Zhang, Yongduo Sui, Tianlong Chen
+- [CcGAN: Continuous Conditional Generative Adversarial Networks for Image Generation](https://openreview.net/forum?id=PrzjugOsDeE), Xin Ding, Yongwei Wang, Zuheng Xu, William J Welch, Z. Jane Wang
+- [Towards Faster and Stabilized GAN Training for High-fidelity Few-shot Image Synthesis](https://openreview.net/forum?id=1Fqg133qRaI), Bingchen Liu, Yizhe Zhu, Kunpeng Song, Ahmed Elgammal
+- [DINO: A Conditional Energy-Based GAN for Domain Translation](https://openreview.net/forum?id=WAISmwsqDsb), Konstantinos Vougioukas, Stavros Petridis, Maja Pantic
+- [Private Post-GAN Boosting](https://openreview.net/forum?id=6isfR3JCbi), Marcel Neunhoeffer, Steven Wu, Cynthia Dwork
+- [GAN2GAN: Generative Noise Learning for Blind Denoising with Single Noisy Images](https://openreview.net/forum?id=SHvF5xaueVn), Sungmin Cha, Taeeon Park, Byeongjoon Kim, Jongduk Baek, Taesup Moon
+- [Taming GANs with Lookahead-Minmax](https://openreview.net/forum?id=ZW0yXJyNmoG), Tatjana Chavdarova, Matteo Pagliardini, Sebastian U Stich, François Fleuret, Martin Jaggi
+- [Wasserstein-2 Generative Networks](https://openreview.net/forum?id=bEoxzW_EXsa), Alexander Korotin, Vage Egiazarian, Arip Asadulaev, Alexander Safin, Evgeny Burnaev
+- [Learning Energy-Based Generative Models via Coarse-to-Fine Expanding and Sampling](https://openreview.net/forum?id=aD1_5zowqV), Yang Zhao, Jianwen Xie, Ping Li
+- [Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA), Ahmed Alaa, Alex James Chan, Mihaela van der Schaar
+- [Conditional Generative Modeling via Learning the Latent Space](https://openreview.net/forum?id=VJnrYcnRc6), Sameera Ramasinghe, Kanchana Nisal Ranasinghe, Salman Khan, Nick Barnes, Stephen Gould
+- [not-MIWAE: Deep Generative Modelling with Missing not at Random Data](https://openreview.net/forum?id=tu29GQT0JFy), Niels Bruun Ipsen, Pierre-Alexandre Mattei, Jes Frellsen

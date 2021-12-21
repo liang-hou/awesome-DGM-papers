@@ -2,6 +2,43 @@
 
 Conference papers on deep generative models.
 
+## ICML
+
+- [Do GANs always have Nash equilibria?](https://proceedings.mlr.press/v119/farnia20a.html), Farzan Farnia, Asuman Ozdaglar
+- [AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://proceedings.mlr.press/v119/fu20b.html), Yonggan Fu, Wuyang Chen, Haotao Wang, Haoran Li, Yingyan Lin, Zhangyang Wang
+- [SimGANs: Simulator-Based Generative Adversarial Networks for ECG Synthesis to Improve Deep ECG Classification](https://proceedings.mlr.press/v119/golany20a.html), omer Golany, Kira Radinsky, Daniel Freedman
+- [SGD Learns One-Layer Networks in WGANs](https://proceedings.mlr.press/v119/lei20b.html), Qi Lei, Jason Lee, Alex Dimakis, Constantinos Daskalakis
+- [InfoGAN-CR and ModelCentrality: Self-supervised Model Training and Selection for Disentangling GANs](https://proceedings.mlr.press/v119/lin20e.html), Zinan Lin, Kiran Thekumparampil, Giulia Fanti, Sewoong Oh
+- [Semi-Supervised StyleGAN for Disentanglement Learning](https://proceedings.mlr.press/v119/nie20a.html), Weili Nie, Tero Karras, Animesh Garg, Shoubhik Debnath, Anjul Patney, Ankit Patel, Animashree Anandkumar
+- [Implicit competitive regularization in GANs](https://proceedings.mlr.press/v119/schaefer20a.html), Florian Schaefer, Hongkai Zheng, Animashree Anandkumar
+- [Small-GAN: Speeding up GAN Training using Core-Sets](https://proceedings.mlr.press/v119/sinha20b.html), Samarth Sinha, Han Zhang, Anirudh Goyal, Yoshua Bengio, Hugo Larochelle, Augustus Odena
+- [Bridging the Gap Between f-GANs and Wasserstein GANs](https://proceedings.mlr.press/v119/song20a.html), Jiaming Song, Stefano Ermon
+- [Learning disconnected manifolds: a no GAN’s land](https://proceedings.mlr.press/v119/tanielian20a.html), Ugo Tanielian, Thibaut Issenhuth, Elvis Dohmatob, Jeremie Mary
+- [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://proceedings.mlr.press/v119/voynov20a.html), Andrey Voynov, Artem Babenko
+- [Understanding and Stabilizing GANs’ Training Dynamics Using Control Theory](https://proceedings.mlr.press/v119/xu20d.html), Kun Xu, Chongxuan Li, Jun Zhu, Bo Zhang
+- [On Leveraging Pretrained GANs for Generation with Limited Data](https://proceedings.mlr.press/v119/zhao20a.html), Miaoyun Zhao, Yulai Cong, Lawrence Carin
+- [Feature Quantization Improves GAN Training](https://proceedings.mlr.press/v119/zhao20d.html), Yang Zhao, Chunyuan Li, Ping Yu, Jianfeng Gao, Changyou Chen
+- [Invertible generative models for inverse problems: mitigating representation error and dataset bias](https://proceedings.mlr.press/v119/asim20a.html), Muhammad Asim, Max Daniels, Oscar Leong, Ali Ahmed, Paul Hand
+- [VFlow: More Expressive Generative Flows with Variational Data Augmentation](https://proceedings.mlr.press/v119/chen20p.html), Jianfei Chen, Cheng Lu, Biqi Chenli, Jun Zhu, Tian Tian
+- [Generative Pretraining From Pixels](https://proceedings.mlr.press/v119/chen20s.html), Mark Chen, Alec Radford, Rewon Child, Jeffrey Wu, Heewoo Jun, David Luan, Ilya Sutskever
+- [Fair Generative Modeling via Weak Supervision](https://proceedings.mlr.press/v119/choi20a.html), Kristy Choi, Aditya Grover, Trisha Singh, Rui Shu, Stefano Ermon
+- [Evaluating Lossy Compression Rates of Deep Generative Models](https://proceedings.mlr.press/v119/huang20c.html), Sicong Huang, Alireza Makhzani, Yanshuai Cao, Roger Grosse
+- [Source Separation with Deep Generative Priors](https://proceedings.mlr.press/v119/jayaram20a.html), Vivek Jayaram, John Thickstun
+- [Distribution Augmentation for Generative Modeling](https://proceedings.mlr.press/v119/jun20a.html), Heewoo Jun, Rewon Child, Mark Chen, John Schulman, Aditya Ramesh, Alec Radford, Ilya Sutskever
+- [On the Power of Compressed Sensing with Generative Models](https://proceedings.mlr.press/v119/kamath20a.html), Akshay Kamath, Eric Price, Sushrut Karmalkar
+- [Equivariant Flows: Exact Likelihood Generative Learning for Symmetric Densities](https://proceedings.mlr.press/v119/kohler20a.html), Jonas Köhler, Leon Klein, Frank Noe
+- [Reliable Fidelity and Diversity Metrics for Generative Models](https://proceedings.mlr.press/v119/naeem20a.html), Muhammad Ferjad Naeem, Seong Joon Oh, Youngjung Uh, Yunjey Choi, Jaejun Yoo
+- [PolyGen: An Autoregressive Generative Model of 3D Meshes](https://proceedings.mlr.press/v119/nash20a.html), Charlie Nash, Yaroslav Ganin, S. M. Ali Eslami, Peter Battaglia
+- [Implicit Generative Modeling for Efficient Exploration](https://proceedings.mlr.press/v119/ratzlaff20a.html), Neale Ratzlaff, Qinxun Bai, Li Fuxin, Wei Xu
+- [Generative Teaching Networks: Accelerating Neural Architecture Search by Learning to Generate Synthetic Training Data](https://proceedings.mlr.press/v119/such20a.html), Felipe Petroski Such, Aditya Rawal, Joel Lehman, Kenneth Stanley, Jeffrey Clune
+- [Perceptual Generative Autoencoders](https://proceedings.mlr.press/v119/zhang20ab.html), Zijun Zhang, Ruixiang Zhang, Zongpeng Li, Yoshua Bengio, Liam Paull
+- [Latent Bernoulli Autoencoder](https://proceedings.mlr.press/v119/fajtl20a.html), Jiri Fajtl, Vasileios Argyriou, Dorothy Monekosso, Paolo Remagnino
+- [Variational Autoencoders with Riemannian Brownian Motion Priors](https://proceedings.mlr.press/v119/kalatzis20a.html), Dimitrios Kalatzis, David Eklund, Georgios Arvanitidis, Soren Hauberg
+- [Topological Autoencoders](https://proceedings.mlr.press/v119/moor20a.html), Michael Moor, Max Horn, Bastian Rieck, Karsten Borgwardt
+- [Eliminating the Invariance on the Loss Landscape of Linear Autoencoders](https://proceedings.mlr.press/v119/oftadeh20a.html), Reza Oftadeh, Jiayi Shen, Zhangyang Wang, Dylan Shell
+- [ControlVAE: Controllable Variational Autoencoder](https://proceedings.mlr.press/v119/shao20b.html), Huajie Shao, Shuochao Yao, Dachun Sun, Aston Zhang, Shengzhong Liu, Dongxin Liu, Jun Wang, Tarek Abdelzaher
+- [Learning Autoencoders with Relational Regularization](https://proceedings.mlr.press/v119/xu20e.html), Hongteng Xu, Dixin Luo, Ricardo Henao, Svati Shah, Lawrence Carin
+
 ## NeurIPS 2020
 
 - [Teaching a GAN What Not to Learn](https://papers.nips.cc/paper/2020/hash/29405e2a4c22866a205f557559c7fa4b-Abstract.html), Siddarth Asokan, Chandra Seelamantula
@@ -54,7 +91,6 @@ Conference papers on deep generative models.
 - [Bi-level Score Matching for Learning Energy-based Latent Variable Models](https://papers.nips.cc/paper/2020/hash/d25a34b9c2a87db380ecd7f7115882ec-Abstract.html), Fan Bao, Chongxuan LI, Kun Xu, Hang Su, Jun Zhu, Bo Zhang
 - [Learning Latent Space Energy-Based Prior Model](https://papers.nips.cc/paper/2020/hash/fa3060edb66e6ff4507886f9912e1ab9-Abstract.html), Bo Pang, Tian Han, Erik Nijkamp, Song-Chun Zhu, Ying Nian Wu
 
-
 ## ICLR 2021
 
 ### Oral
@@ -65,6 +101,7 @@ Conference papers on deep generative models.
 - [Improved Autoregressive Modeling with Distribution Smoothing](https://openreview.net/forum?id=rJA5Pz7lHKb), Chenlin Meng, Jiaming Song, Yang Song, Shengjia Zhao, Stefano Ermon
 
 ### Spotlight
+
 - [VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models](https://openreview.net/forum?id=5m3SEczOV8L), Zhisheng Xiao, Karsten Kreis, Jan Kautz, Arash Vahdat
 - [Large Scale Image Completion via Co-Modulated Generative Adversarial Networks](https://openreview.net/forum?id=sSjqmfsk95O), Shengyu Zhao, Jonathan Cui, Yilun Sheng, Yue Dong, Xiao Liang, Eric I-Chao Chang, Yan Xu
 - [Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images](https://openreview.net/forum?id=RLRXCV6DbEJ), Rewon Child
@@ -112,7 +149,6 @@ Conference papers on deep generative models.
 - [Property Controllable Variational Autoencoder via Invertible Mutual Dependence](https://openreview.net/forum?id=tYxG_OMs9WE), Xiaojie Guo, Yuanqi Du, Liang Zhao
 - [Anytime Sampling for Autoregressive Models via Ordered Autoencoding](https://openreview.net/forum?id=TSRTzJnuEBS), Yilun Xu, Yang Song, Sahaj Garg, Linyuan Gong, Rui Shu, Aditya Grover, Stefano Ermon
 - [Tomographic Auto-Encoder: Unsupervised Bayesian Recovery of Corrupted Data](https://openreview.net/forum?id=YtMG5ex0ou), Francesco Tonolini, Pablo Garcia Moreno, Andreas Damianou, Roderick Murray-Smith
-
 
 ## ICML 2021
 

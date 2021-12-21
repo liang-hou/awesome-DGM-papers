@@ -112,3 +112,35 @@ Conference papers on deep generative models.
 - [Property Controllable Variational Autoencoder via Invertible Mutual Dependence](https://openreview.net/forum?id=tYxG_OMs9WE), Xiaojie Guo, Yuanqi Du, Liang Zhao
 - [Anytime Sampling for Autoregressive Models via Ordered Autoencoding](https://openreview.net/forum?id=TSRTzJnuEBS), Yilun Xu, Yang Song, Sahaj Garg, Linyuan Gong, Rui Shu, Aditya Grover, Stefano Ermon
 - [Tomographic Auto-Encoder: Unsupervised Bayesian Recovery of Corrupted Data](https://openreview.net/forum?id=YtMG5ex0ou), Francesco Tonolini, Pablo Garcia Moreno, Andreas Damianou, Roderick Murray-Smith
+
+
+## ICML 2021
+
+- [Uncertainty Principles of Encoding GANs](https://proceedings.mlr.press/v139/feng21c.html), Ruili Feng, Zhouchen Lin, Jiapeng Zhu, Deli Zhao, Jingren Zhou, Zheng-Jun Zha
+- [Understanding Noise Injection in GANs](https://proceedings.mlr.press/v139/feng21g.html), Ruili Feng, Deli Zhao, Zheng-Jun Zha
+- [Pareto GAN: Extending the Representational Power of GANs to Heavy-Tailed Distributions](https://proceedings.mlr.press/v139/huster21a.html), Todd Huster, Jeremy Cohen, Zinan Lin, Kevin Chan, Charles Kamhoua, Nandi O. Leslie, Cho-Yu Jason Chiang, Vyas Sekar
+- [Functional Space Analysis of Local GAN Convergence](https://proceedings.mlr.press/v139/khrulkov21a.html), Valentin Khrulkov, Artem Babenko, Ivan Oseledets
+- [Neural SDEs as Infinite-Dimensional GANs](https://proceedings.mlr.press/v139/kidger21b.html), Patrick Kidger, James Foster, Xuechen Li, Terry J Lyons
+- [WGAN with an Infinitely Wide Generator Has No Spurious Stationary Points](https://proceedings.mlr.press/v139/no21a.html), Albert No, Taeho Yoon, Kwon Sehyun, Ernest K Ryu
+- [On Characterizing GAN Convergence Through Proximal Duality Gap](https://proceedings.mlr.press/v139/sidheekh21a.html), Sahil Sidheekh, Aroof Aimen, Narayanan C Krishnan
+- [Generative Adversarial Transformers](https://proceedings.mlr.press/v139/hudson21a.html), Drew A Hudson, Larry Zitnick
+- [Provable Lipschitz Certification for Generative Models](https://proceedings.mlr.press/v139/jordan21a.html), Matt Jordan, Alex Dimakis
+- [Prior Image-Constrained Reconstruction using Style-Based Generative Models](https://proceedings.mlr.press/v139/kelkar21a.html), Varun A Kelkar, Mark Anastasio
+- [NeRF-VAE: A Geometry Aware 3D Scene Generative Model](https://proceedings.mlr.press/v139/kosiorek21a.html), Adam R Kosiorek, Heiko Strathmann, Daniel Zoran, Pol Moreno, Rosalia Schneider, Sona Mokra, Danilo Jimenez Rezende
+- [Run-Sort-ReRun: Escaping Batch Size Limitations in Sliced Wasserstein Generative Models](https://proceedings.mlr.press/v139/lezama21a.html), Jose Lezama, Wei Chen, Qiang Qiu
+- [Generative Adversarial Networks for Markovian Temporal Dynamics: Stochastic Continuous Data Generation](https://proceedings.mlr.press/v139/park21d.html), Sung Woo Park, Dong Wook Shu, Junseok Kwon
+- [A Language for Counterfactual Generative Models](https://proceedings.mlr.press/v139/tavares21a.html), Zenna Tavares, James Koppel, Xin Zhang, Ria Das, Armando Solar-Lezama
+- [Deep Generative Learning via Schrödinger Bridge](https://proceedings.mlr.press/v139/wang21l.html), Gefei Wang, Yuling Jiao, Qian Xu, Yang Wang, Can Yang
+- [A Unified Generative Adversarial Network Training via Self-Labeling and Self-Attention](https://proceedings.mlr.press/v139/watanabe21a.html), Tomoki Watanabe, Paolo Favaro
+- [Adversarial Purification with Score-based Generative Models](https://proceedings.mlr.press/v139/yoon21a.html), Jongmin Yoon, Sung Ju Hwang, Juho Lee
+- [Understanding Failures in Out-of-Distribution Detection with Deep Generative Models](https://proceedings.mlr.press/v139/zhang21g.html), Lily Zhang, Mark Goldstein, Rajesh Ranganath
+- [Multiscale Invertible Generative Networks for High-Dimensional Bayesian Inference](https://proceedings.mlr.press/v139/zhang21z.html), Shumao Zhang, Pengchuan Zhang, Thomas Y Hou
+- [Unified Robust Semi-Supervised Variational Autoencoder](https://proceedings.mlr.press/v139/chen21a.html), Xu Chen
+- [Conditional Variational Autoencoder with Adversarial Learning for End-to-End Text-to-Speech](https://proceedings.mlr.press/v139/kim21f.html), Jaehyeon Kim, Jungil Kong, Juhee Son
+- [MorphVAE: Generating Neural Morphologies from 3D-Walks using a Variational Autoencoder with Spherical Latent Space](https://proceedings.mlr.press/v139/laturnus21a.html), Sophie C. Laturnus, Philipp Berens
+- [Autoencoder Image Interpolation by Shaping the Latent Space](https://proceedings.mlr.press/v139/oring21a.html), Alon Oring, Zohar Yakhini, Yacov Hel-Or
+- [Spectral Smoothing Unveils Phase Transitions in Hierarchical Variational Autoencoders](https://proceedings.mlr.press/v139/pervez21a.html), Adeel Pervez, Efstratios Gavves
+- [Autoencoding Under Normalization Constraints](https://proceedings.mlr.press/v139/yoon21c.html), Sangwoong Yoon, Yung-Kyun Noh, Frank Park
+- [Learning from Nested Data with Ornstein Auto-Encoders](https://proceedings.mlr.press/v139/choi21a.html), Youngwon Choi, Sungdong Lee, Joong-Ho Won
+- [Monte Carlo Variational Auto-Encoders](https://proceedings.mlr.press/v139/thin21a.html), Achille Thin, Nikita Kotelevskii, Arnaud Doucet, Alain Durmus, Eric Moulines, Maxim Panov
+- [Zero-Shot Text-to-Image Generation](https://proceedings.mlr.press/v139/ramesh21a.html), Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever

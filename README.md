@@ -2,7 +2,42 @@
 
 Conference papers on deep generative models.
 
-## ICML
+## ICLR 2020
+
+### Oral
+
+- [Your Classifier is Secretly an Energy based Model and You Should Treat it Like One](https://openreview.net/forum?id=Hkxzx0NtDB), Will Grathwohl, Kuan-Chieh Wang, Joern-Henrik Jacobsen, David Duvenaud, Mohammad Norouzi, Kevin Swersky
+- [High Fidelity Speech Synthesis with Adversarial Networks](https://openreview.net/forum?id=r1gfQgSFDr), Mikołaj Bińkowski, Jeff Donahue, Sander Dieleman, Aidan Clark, Erich Elsen, Norman Casagrande, Luis C. Cobo, Karen Simonyan
+
+### Spotlight
+
+- [Stable Rank Normalization for Improved Generalization in Neural Networks and GANs](https://openreview.net/forum?id=H1enKkrFDB), Amartya Sanyal, Philip H. Torr, Puneet K. Dokania
+- [Scaling Autoregressive Video Models](https://openreview.net/forum?id=rJgsskrFwH), Dirk Weissenborn, Oscar Täckström, Jakob Uszkoreit
+
+### Poster
+- [AE-OT: A New Generative Model based on Extended Semi-Discrete Optimal Transport](https://openreview.net/forum?id=HkldyTNYwH), Dongsheng An, Yang Guo, Na Lei, Zhongxuan Luo, Shing-Tung Yau, Xianfeng Gu
+- [Input Complexity and Out-of-distribution Detection with Likelihood-based Generative Models](https://openreview.net/forum?id=SyxIWpVYvr), Joan Serrà, David Álvarez, Vicenç Gómez, Olga Slizovskaia, José F. Núñez, Jordi Luque
+- [VideoFlow: A Conditional Flow-Based Model for Stochastic Video Generation](https://openreview.net/forum?id=rJgUfTEYvH), Manoj Kumar, Mohammad Babaeizadeh, Dumitru Erhan, Chelsea Finn, Sergey Levine, Laurent Dinh, Durk Kingma
+- [Difference-Seeking Generative Adversarial Network--Unseen Sample Generation](https://openreview.net/forum?id=rygjmpVFvB), Yi Lin Sung, Sung-Hsien Hsieh, Soo-Chang Pei, Chun-Shien Lu
+- [From Variational to Deterministic Autoencoders](https://openreview.net/forum?id=S1g7tpEYDS), Partha Ghosh, Mehdi S. M. Sajjadi, Antonio Vergari, Michael Black, Bernhard Scholkopf
+- [Generative Ratio Matching Networks](https://openreview.net/forum?id=SJg7spEYDS), Akash Srivastava, Kai Xu, Michael U. Gutmann, Charles Sutton
+- [On the "Steerability" of Generative Adversarial Networks](https://openreview.net/forum?id=HylsTT4FvB), Ali Jahanian*, Lucy Chai*, Phillip Isola
+- [Semi-Supervised Generative Modeling for Controllable Speech Synthesis](https://openreview.net/forum?id=rJeqeCEtvH), Raza Habib, Soroosh Mariooryad, Matt Shannon, Eric Battenberg, RJ Skerry-Ryan, Daisy Stanton, David Kao, Tom Bagby
+- [Towards Better Understanding of Adaptive Gradient Algorithms in Generative Adversarial Nets](https://openreview.net/forum?id=SJxIm0VtwH), Mingrui Liu, Youssef Mroueh, Jerret Ross, Wei Zhang, Xiaodong Cui, Payel Das, Tianbao Yang
+- [Variational Hetero-Encoder Randomized GANs for Joint Image-Text Modeling](https://openreview.net/forum?id=H1x5wRVtvS), Hao Zhang, Bo Chen, Long Tian, Zhengjue Wang, Mingyuan Zhou
+- [On the Need for Topology-Aware Generative Models for Manifold-Based Defenses](https://openreview.net/forum?id=r1lF_CEYwS), Uyeong Jang, Susmit Jha, Somesh Jha
+- [A Closer Look at the Optimization Landscapes of Generative Adversarial Networks](https://openreview.net/forum?id=HJeVnCEKwH), Hugo Berard, Gauthier Gidel, Amjad Almahairi, Pascal Vincent, Simon Lacoste-Julien
+- [Generative Models for Effective ML on Private, Decentralized Datasets](https://openreview.net/forum?id=SJgaRA4FPH), Sean Augenstein, H. Brendan McMahan, Daniel Ramage, Swaroop Ramaswamy, Peter Kairouz, Mingqing Chen, Rajiv Mathews, Blaise Aguera y Arcas
+- [Smoothness and Stability in GANs](https://openreview.net/forum?id=HJeOekHKwr), Casey Chu, Kentaro Minami, Kenji Fukumizu
+- [Kernel of CycleGAN as a Principal Homogeneous Space](https://openreview.net/forum?id=B1eWOJHKvB), Nikita Moriakov, Jonas Adler, Jonas Teuwen
+- [U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation](https://openreview.net/forum?id=BJlZ5ySKPH), Junho Kim, Minjae Kim, Hyeonwoo Kang, Kwang Hee Lee
+- [Understanding the Limitations of Conditional Generative Models](https://openreview.net/forum?id=r1lPleBFvH), Ethan Fetaya, Joern-Henrik Jacobsen, Will Grathwohl, Richard Zemel
+- [Mixed-curvature Variational Autoencoders](https://openreview.net/forum?id=S1g6xeSKDS), Ondrej Skopek, Octavian-Eugen Ganea, Gary Bécigneul
+- [Adversarial Lipschitz Regularization](https://openreview.net/forum?id=Bke_DertPB), Dávid Terjék
+- [Consistency Regularization for Generative Adversarial Networks](https://openreview.net/forum?id=S1lxKlSKPH), Han Zhang, Zizhao Zhang, Augustus Odena, Honglak Lee
+- [The Shape of Data: Intrinsic Distance for Data Distributions](https://openreview.net/forum?id=HyebplHYwB), Anton Tsitsulin, Marina Munkhoeva, Davide Mottin, Panagiotis Karras, Alex Bronstein, Ivan Oseledets, Emmanuel Mueller
+
+## ICML 2020
 
 - [Do GANs always have Nash equilibria?](https://proceedings.mlr.press/v119/farnia20a.html), Farzan Farnia, Asuman Ozdaglar
 - [AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://proceedings.mlr.press/v119/fu20b.html), Yonggan Fu, Wuyang Chen, Haotao Wang, Haoran Li, Yingyan Lin, Zhangyang Wang

@@ -215,3 +215,79 @@ Conference papers on deep generative models.
 - [Learning from Nested Data with Ornstein Auto-Encoders](https://proceedings.mlr.press/v139/choi21a.html), Youngwon Choi, Sungdong Lee, Joong-Ho Won
 - [Monte Carlo Variational Auto-Encoders](https://proceedings.mlr.press/v139/thin21a.html), Achille Thin, Nikita Kotelevskii, Arnaud Doucet, Alain Durmus, Eric Moulines, Maxim Panov
 - [Zero-Shot Text-to-Image Generation](https://proceedings.mlr.press/v139/ramesh21a.html), Aditya Ramesh, Mikhail Pavlov, Gabriel Goh, Scott Gray, Chelsea Voss, Alec Radford, Mark Chen, Ilya Sutskever
+
+## NeurIPS 2021 ([OpenReview](https://openreview.net/group?id=NeurIPS.cc/2021/Conference))
+
+### Oral
+
+- [Moser Flow: Divergence-based Generative Modeling on Manifolds](https://openreview.net/forum?id=qGvMv3undNJ), Noam Rozen, Aditya Grover, Maximilian Nickel, Yaron Lipman
+- [Differentiable Quality Diversity](https://openreview.net/forum?id=uJGObgFU0lU), Matthew Christopher Fontaine, Stefanos Nikolaidis
+- [Alias-Free Generative Adversarial Networks](https://openreview.net/forum?id=Owggnutk6lE), Tero Karras, Miika Aittala, Samuli Laine, Erik Härkönen, Janne Hellsten, Jaakko Lehtinen, Timo Aila
+
+### Spotlight
+
+- [Breaking the Dilemma of Medical Image-to-image Translation](https://openreview.net/forum?id=C0GmZH2RnVR), Lingke Kong, Chenyu Lian, Detian Huang, ZhenJiang Li, Yanle Hu, Qichao Zhou
+- [Diffusion Schrödinger Bridge with Applications to Score-Based Generative Modeling](https://openreview.net/forum?id=9BnCwiXB0ty), Valentin De Bortoli, James Thornton, Jeremy Heng, Arnaud Doucet
+- [Statistical Regeneration Guarantees of the Wasserstein Autoencoder with Latent Space Consistency](https://openreview.net/forum?id=iFadi3f5V5I), Anish Chakrabarty, Swagatam Das
+- [On the Value of Infinite Gradients in Variational Autoencoder Models](https://openreview.net/forum?id=oumDUrf2dAB), Bin Dai, Li Kevin Wenliang, David Wipf
+- [Maximum Likelihood Training of Score-Based Diffusion Models](https://openreview.net/forum?id=AklttWFnxS9), Yang Song, Conor Durkan, Iain Murray, Stefano Ermon
+- [A Variational Perspective on Diffusion-Based Generative Models and Score Matching](https://openreview.net/forum?id=bXehDYUjjXi), Chin-Wei Huang, Jae Hyun Lim, Aaron Courville
+- [Diffusion Models Beat GANs on Image Synthesis](https://openreview.net/forum?id=OU98jZWS3x_), Prafulla Dhariwal, Alexander Quinn Nichol
+- [Instance-Conditioned GAN](https://openreview.net/forum?id=aUuTEEcyY_), Arantxa Casanova, Marlene Careil, Jakob Verbeek, Michal Drozdzal, Adriana Romero
+
+### Poster
+
+- [Self-Supervised GANs with Label Augmentation](https://openreview.net/forum?id=MT0pTKLyzkT), Liang Hou, Huawei Shen, Qi Cao, Xueqi Cheng
+- [Projected GANs Converge Faster](https://openreview.net/forum?id=fUxqIofPPi), Axel Sauer, Kashyap Chitta, Jens Müller, Andreas Geiger
+- [Data-Efficient GAN Training Beyond (Just) Augmentations: A Lottery Ticket Perspective](https://openreview.net/forum?id=WQkGUUNsPu6), Tianlong Chen, Yu Cheng, Zhe Gan, Jingjing Liu, Zhangyang Wang
+- [Invertible Tabular GANs: Killing Two Birds with One Stone for Tabular Data Synthesis](https://openreview.net/forum?id=tvDBe6K8L5o), JAEHOON LEE, Jihyeon Hyeong, Jinsung Jeon, Noseong Park, Jihoon Cho
+- [Non-asymptotic Error Bounds for Bidirectional GANs](https://openreview.net/forum?id=Ifo8sa57U2f), Shiao Liu, Yunfei Yang, Jian Huang, Yuling Jiao, Yang Wang
+- [Why Spectral Normalization Stabilizes GANs: Analysis and Improvements](https://openreview.net/forum?id=MLT9wFYMlJ9), Zinan Lin, Vyas Sekar, Giulia Fanti
+- [CAM-GAN: Continual Adaptation Modules for Generative Adversarial Networks](https://openreview.net/forum?id=2r6F9duQ6o5), Sakshi Varshney, Vinay Kumar Verma, Srijith P K, Lawrence Carin, Piyush Rai
+- [Self-Diagnosing GAN: Diagnosing Underrepresented Samples in Generative Adversarial Networks](https://openreview.net/forum?id=SGZn06ZXcG), Jinhee Lee, Haeri Kim, Youngkyu Hong, Hye Won Chung
+- [Particle Cloud Generation with Message Passing Generative Adversarial Networks](https://openreview.net/forum?id=iorEu783qJ5), Raghav Kansal, Javier Duarte, Hao Su, Breno Orzari, Thiago R F P Tomei, Maurizio Pierini, Mary Touranakou, Jean-roch Vlimant, Dimitrios Gunopulos
+- [TransGAN: Two Pure Transformers Can Make One Strong GAN, and That Can Scale Up](https://openreview.net/forum?id=1GTpBZvNUrk), Yifan Jiang, Shiyu Chang, Zhangyang Wang
+- [Low-Rank Subspaces in GANs](https://openreview.net/forum?id=Xp5BhDKdil5), Jiapeng Zhu, Ruili Feng, Yujun Shen, Deli Zhao, Zheng-Jun Zha, Jingren Zhou, Qifeng Chen
+- [Lip to Speech Synthesis with Visual Context Attentional GAN](https://openreview.net/forum?id=x6z8J_17LP3), Minsu Kim, Joanna Hong, Yong Man Ro
+- [Revisiting Discriminator in GAN Compression: A Generator-discriminator Cooperative Compression Scheme](https://openreview.net/forum?id=79xCSCP6qs), ShaoJie Li, Jie Wu, Xuefeng Xiao, Fei Chao, Xudong Mao, Rongrong Ji
+- [EditGAN: High-Precision Semantic Image Editing](https://openreview.net/forum?id=ppv5yqhpNyE), Huan Ling, Karsten Kreis, Daiqing Li, Seung Wook Kim, Antonio Torralba, Sanja Fidler
+- [Rebooting ACGAN: Auxiliary Classifier GANs with Stable Training](https://openreview.net/forum?id=Ja-hVQrfeGZ), Minguk Kang, Woohyeon Joseph Shim, Minsu Cho, Jaesik Park
+- [Rethinking Conditional GAN Training: An Approach using Geometrically Structured Latent Manifolds](https://openreview.net/forum?id=Hox8lKfr82L), Sameera Ramasinghe, Moshiur R Farazi, Salman Khan, Nick Barnes, Stephen Gould
+- [BlendGAN: Implicitly GAN Blending for Arbitrary Stylized Face Generation](https://openreview.net/forum?id=gISH-80g05u), Mingcong Liu, Qiang Li, Zekui Qin, Guoxin Zhang, Pengfei Wan, Wen Zheng
+- [Data-Efficient Instance Generation from Instance Discrimination](https://openreview.net/forum?id=9BpjtPMyDQ), Ceyuan Yang, Yujun Shen, Yinghao Xu, Bolei Zhou
+- [On the Frequency Bias of Generative Models](https://openreview.net/forum?id=IARK9TWiFRb), Katja Schwarz, Yiyi Liao, Andreas Geiger
+- [Improved Transformer for High-Resolution GANs](https://openreview.net/forum?id=zmbiQmdtg9), Long Zhao, Zizhao Zhang, Ting Chen, Dimitris N. Metaxas, Han Zhang
+- [Deceive D: Adaptive Pseudo Augmentation for GAN Training with Limited Data](https://openreview.net/forum?id=spjlJ4jeM_), Liming Jiang, Bo Dai, Wayne Wu, Chen Change Loy
+- [Towards Scalable Unpaired Virtual Try-On via Patch-Routed Spatially-Adaptive GAN](https://openreview.net/forum?id=X8SLExrO2Lp), Zhenyu Xie, Zaiyu Huang, Fuwei Zhao, Haoye Dong, Michael Kampffmeyer, Xiaodan Liang
+- [CogView: Mastering Text-to-Image Generation via Transformers](https://openreview.net/forum?id=cnWSyJNmeCE), Ming Ding, Zhuoyi Yang, Wenyi Hong, Wendi Zheng, Chang Zhou, Da Yin, Junyang Lin, Xu Zou, Zhou Shao, Hongxia Yang, Jie Tang
+- [Improving Visual Quality of Image Synthesis by A Token-based Generator with Transformers](https://openreview.net/forum?id=lGoKo9WS2A_), Yanhong Zeng, Huan Yang, Hongyang Chao, Jianbo Wang, Jianlong Fu
+- [Manifold Topology Divergence: a Framework for Comparing Data Manifolds](https://openreview.net/forum?id=Fj6kQJbHwM9), Serguei Barannikov, Ilya Trofimov, Grigorii Sotnikov, Ekaterina Trimbach, Alexander Korotin, Alexander Filippov, Evgeny Burnaev
+- [DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks](https://openreview.net/forum?id=XN1M27T6uux), Boris van Breugel, Trent Kyono, Jeroen Berrevoets, Mihaela van der Schaar
+- [A Unified View of cGANs with and without Classifiers](https://openreview.net/forum?id=j6KoGtzPYa), Si-An Chen, Chun-Liang Li, Hsuan-Tien Lin
+- [Conditional Generation Using Polynomial Expansions](https://openreview.net/forum?id=wPA_5Wsjt8i), Grigorios Chrysos, Markos Georgopoulos, Yannis Panagakis
+- [Generative Occupancy Fields for 3D Surface-Aware Image Synthesis](https://openreview.net/forum?id=tHzvH4Rv1Qa), Xudong Xu, Xingang Pan, Dahua Lin, Bo Dai
+- [Implicit Generative Copulas](https://openreview.net/forum?id=h1bPe7spQkr), Tim Janke, Mohamed Ghanmi, Florian Steinke
+- [Don’t Generate Me: Training Differentially Private Generative Models with Sinkhorn Divergence](https://openreview.net/forum?id=waWmZSw0mn), Tianshi Cao, Alex Bie, Arash Vahdat, Sanja Fidler, Karsten Kreis
+- [Learning Generative Vision Transformer with Energy-Based Latent Space for Saliency Prediction](https://openreview.net/forum?id=LoUdcqLuPej), Jing Zhang, Jianwen Xie, Nick Barnes, Ping Li
+- [Divergence Frontiers for Generative Models: Sample Complexity, Quantization Effects, and Frontier Integrals](https://openreview.net/forum?id=Z_J5bCb4Rra), Lang Liu, Krishna Pillutla, Sean Welleck, Sewoong Oh, Yejin Choi, Zaid Harchaoui
+- [On the Generative Utility of Cyclic Conditionals](https://openreview.net/forum?id=dPdrrr-YrgX), Chang Liu, Haoyue Tang, Tao Qin, Jintao Wang, Tie-Yan Liu
+- [Score-based Generative Neural Networks for Large-Scale Optimal Transport](https://openreview.net/forum?id=PPzV1H4atM4), Max Daniels, Tyler Maunu, PAul HAnd
+- [Bridging Explicit and Implicit Deep Generative Models via Neural Stein Estimators](https://openreview.net/forum?id=wHxnK7Ucogy), Qitian Wu, Rui Gao, Hongyuan Zha
+- [On Memorization in Probabilistic Deep Generative Models](https://openreview.net/forum?id=PlGSgjFK2oJ), Gerrit J.J. Van den Burg, Chris Williams
+- [Score-based Generative Modeling in Latent Space](https://openreview.net/forum?id=P9TYG0j-wtG), Arash Vahdat, Karsten Kreis, Jan Kautz
+- [SketchGen: Generating Constrained CAD Sketches](https://openreview.net/forum?id=Oeb2LbHAfJ4), Wamiq Reyaz Para, Shariq Farooq Bhat, Paul Guerrero, Tom Kelly, Niloy Mitra, Leonidas Guibas, Peter Wonka
+- [Physics-Integrated Variational Autoencoders for Robust and Interpretable Generative Modeling](https://openreview.net/forum?id=0p0gt1Pn2Gv), Naoya Takeishi, Alexandros Kalousis
+- [Evidential Softmax for Sparse Multimodal Distributions in Deep Generative Models](https://openreview.net/forum?id=rqjfa49ODLE), Phil Chen, Masha Itkina, Ransalu Senanayake, Mykel Kochenderfer
+- [Flow Network based Generative Models for Non-Iterative Diverse Candidate Generation](https://openreview.net/forum?id=Arn2E4IRjEB), Emmanuel Bengio, Moksh Jain, Maksym Korablyov, Doina Precup, Yoshua Bengio
+- [Improving Robustness using Generated Data](https://openreview.net/forum?id=0NXUSlb6oEu), Sven Gowal, Sylvestre-Alvise Rebuffi, Olivia Wiles, Florian Stimberg, Dan Andrei Calian, Timothy Mann
+- [D2C: Diffusion-Decoding Models for Few-Shot Conditional Generation](https://openreview.net/forum?id=4vUZPUKZsr5), Abhishek Sinha, Jiaming Song, Chenlin Meng, Stefano Ermon
+- [Shape your Space: A Gaussian Mixture Regularization Approach to Deterministic Autoencoders](https://openreview.net/forum?id=WybjTtCKfGi), Amrutha Saseendran, Kathrin Skubch, Stefan Falkner, Margret Keuper
+- [On Density Estimation with Diffusion Models](https://openreview.net/forum?id=2LdBqxc1Yv), Diederik P Kingma, Tim Salimans, Ben Poole, Jonathan Ho
+- [Fast Approximation of the Sliced-Wasserstein Distance Using Concentration of Random Projections](https://openreview.net/forum?id=oa1AMhWKrS), Kimia Nadjahi, Alain Durmus, Pierre Jacob, Roland Badeau, Umut Simsekli
+- [PortaSpeech: Portable and High-Quality Generative Text-to-Speech](https://openreview.net/forum?id=xmJsuh8xlq), Yi Ren, Jinglin Liu, Zhou Zhao
+- [Locally Most Powerful Bayesian Test for Out-of-Distribution Detection using Deep Generative Models](https://openreview.net/forum?id=-nLW4nhdkO), Keunseo Kim, JunCheol Shin, Heeyoung Kim
+- [Topographic VAEs learn Equivariant Capsules](https://openreview.net/forum?id=AVWROGUWpu), T. Anderson Keller, Max Welling
+- [ByPE-VAE: Bayesian Pseudocoresets Exemplar VAE](https://openreview.net/forum?id=SBiKnJW9fy), Qingzhong Ai, LIRONG HE, SHIYU LIU, Zenglin Xu
+- [Understanding Instance-based Interpretability of Variational Auto-Encoders](https://openreview.net/forum?id=a5-37ER8qTI), Zhifeng Kong, Kamalika Chaudhuri
+- [Local Disentanglement in Variational Auto-Encoders Using Jacobian $L_1$ Regularization](https://openreview.net/forum?id=8xyNqPvFZwC), Travers Rhodes, Daniel Lee
+- [Consistency Regularization for Variational Auto-Encoders](https://openreview.net/forum?id=djbC2A4uTHP), Samarth Sinha, Adji Bousso Dieng
